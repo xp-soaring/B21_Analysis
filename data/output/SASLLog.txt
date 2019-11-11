@@ -1,0 +1,17 @@
+[B21_SOARING INFO]: Initializing...
+[B21_SOARING INFO]: Path to module: C:\Program Files (x86)/Steam/steamapps/common/X-Plane 11/Resources/plugins/SASLFree/data/modules/main.lua
+[B21_SOARING INFO]: Loading module...
+[B21_SOARING INFO]: [LUA]: loading	module
+[B21_SOARING INFO]: [LUA]: "module"	B21_Soaring loading...
+[B21_SOARING INFO]: [LUA]: loading	b21_te
+[B21_SOARING INFO]: [LUA]: loading	b21_analysis
+[B21_SOARING INFO]: [LUA]: "b21_analysis"	b21_analysis.lua startup
+[B21_SOARING INFO]: [LUA]: loading	b21_chart
+[B21_SOARING INFO]: [LUA]: "b21_chart"	b21_chart.lua startup
+[B21_SOARING INFO]: Module loaded
+[B21_SOARING INFO]: [LUA]: "b21_analysis"	analysis_window() called on menu click
+[B21_SOARING INFO]: [LUA]: "b21_analysis"	open_ analysis_window() called on menu click
+[B21_SOARING INFO]: [LUA]: loading	b21_analysis_content
+[B21_SOARING INFO]: [LUA]: loading	rectangle
+[B21_SOARING INFO]: Disabling...
+[B21_SOARING INFO]: SASL plugin stopped...
